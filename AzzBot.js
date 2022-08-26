@@ -30,8 +30,8 @@ let setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //limit
 limitawal = '10'
-botname = 'AzzBot•MD'
-wm = '© AzzBot - MD'
+botname = 'ᴹᴿ᭄ Khurushi-md By Riel🌱'
+wm = '© khurushi - MD'
 
 // read database
 let tebaklagu = db.data.game.tebaklagu = []
@@ -658,10 +658,10 @@ break
 case 'sc':  case 'sourcecode': {
 addCountCmd(`#${command.slice(1)}`, sender, _cmd)
 	anu = `
-⌕ Script : https://github.com/AzzBott679
+⌕ Script : diyt mby official
 
-Jangan lupa kasih bintang.
-⌕ Donate : 081511480762 (Dana / gopay)
+Donate kontol
+⌕ Donate : 083813417529 pulsa axis
 ⌕ Saweria : Kaga ada
 ⌕ Paypal : kaga ada
 
@@ -669,8 +669,8 @@ Dont Forget Donate
 `
 	let btn = [{
 urlButton: {
-displayText: 'Instagram',
-url: 'https://instagram.com/naando.jpeg'
+displayText: 'youtube aink',
+url: 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
 }
 }]
 zets.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -680,9 +680,9 @@ break
 case 'tqto': case 'partner': case 'credits': {
 	anu = `Terima kasih
 
-Yahya Ganzz
-⌕ https://github.com/AzzBott679
-⌕ https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
+Riell Ganzz
+⌕ https://github.com/RielDejet
+⌕ https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg
 
 `
 	let btn = [{
