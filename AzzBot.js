@@ -1294,8 +1294,8 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/zets-Morou'
+displayText: 'group bot',
+url: 'https://chat.whatsapp.com/GItYfXre9JbBOipYTgoMnY'
 }
 }]
   let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1313,8 +1313,8 @@ m.reply(`Mengirim Broadcast Ke ${anu.length} Chat\nWaktu Selesai ${anu.length * 
 		await sleep(1500)
 		let btn = [{
 urlButton: {
-displayText: 'Source Code',
-url: 'https://github.com/DikaArdnt/zets-Morou'
+displayText: 'groub bot',
+url: 'https://chat.whatsapp.com/GItYfXre9JbBOipYTgoMnY'
 }
 }]
   let txt = `「 Broadcast Bot 」\n\n${text}`
